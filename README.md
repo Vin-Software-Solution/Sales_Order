@@ -21,9 +21,11 @@ Kolom yang didukung:
 - status
 <br>
 Cara untuk menjalankan nya :
-- pip install pyqt5 pandas openpyxl<br>
-NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall<br>
-- Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat<br>
+- pip install pyqt5 pandas openpyxl</br>
+
+NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall</br>
+
+- Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat</br>
 
 <strong>SELESAI</strong>
 

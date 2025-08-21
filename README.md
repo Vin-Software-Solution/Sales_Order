@@ -19,14 +19,12 @@ Kolom yang didukung:
 - order_date atau tanggal_order
 - amount atau jumlah_rp
 - status
-
+<br>
 Cara untuk menjalankan nya :
-- pip install pyqt5 pandas openpyxl
-<br>
-NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall
-<br>
-- Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat
-<br>
+- pip install pyqt5 pandas openpyxl<br>
+NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall<br>
+- Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat<br>
+
 <strong>SELESAI</strong>
 
 Ini adalah hasil pembuatan Sistem CRM Sales & Repeat Order untuk berbagai kalangan umum seperti:

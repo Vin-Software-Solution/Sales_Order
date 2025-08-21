@@ -1,7 +1,7 @@
 # Sales_Order
 <strong>SISTEM CRM SALES & REPEAT ORDER (PYTHON)</strong>
 
-<strong>Format File Impor</strong><br>
+# <strong>Format File Impor</strong><br>
 <b>Data Sales</b><br>
 Kolom yang didukung:
 - name atau nama
@@ -32,7 +32,7 @@ NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall</br>
 
 <strong>SELESAI</strong>
 
-Ini adalah hasil pembuatan Sistem CRM Sales & Repeat Order untuk berbagai kalangan umum seperti:
+# Ini adalah hasil pembuatan Sistem CRM Sales & Repeat Order untuk berbagai kalangan umum seperti:
 - Perusahaan
 - Toko
 - pedagang

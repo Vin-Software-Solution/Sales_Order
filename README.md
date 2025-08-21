@@ -4,27 +4,28 @@
 <strong>Format File Impor</strong>
 <b>Data Sales</b>
 Kolom yang didukung:
-{1} name atau nama
-{2} email
-{3} phone atau telepon
-{4} join_date atau tanggal_bergabung
-{5} territory atau wilayah
+- name atau nama
+- email
+- phone atau telepon
+- join_date atau tanggal_bergabung
+- territory atau wilayah
 
 <b>Data Order</b>
 Kolom yang didukung:
-{1} sales_id
-{2} customer_name atau pelanggan
-{3} product atau produk
-{4} quantity atau jumlah
-{5} order_date atau tanggal_order
-{6} amount atau jumlah_rp
-{7} status
+- sales_id
+- customer_name atau pelanggan
+- product atau produk
+- quantity atau jumlah
+- order_date atau tanggal_order
+- amount atau jumlah_rp
+- status
 
 Cara untuk menjalankan nya :
-pip install pyqt5 pandas openpyxl
+- pip install pyqt5 pandas openpyxl
+<br>
 NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall
 
-Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat
+- Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat
 
 <strong>SELESAI</strong>
 

@@ -21,7 +21,7 @@ Kolom yang didukung:
 - status
 <br>
 
-Untuk <b>Database</b> menggunakan <b>SQL Lite</b>
+Untuk <b>Database</b> menggunakan <b>SQL Lite</b></br>
 Cara untuk menjalankan nya :</br>
 
 - pip install pyqt5 pandas openpyxl</br>

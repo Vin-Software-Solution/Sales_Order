@@ -20,7 +20,7 @@ Kolom yang didukung:
 - amount atau jumlah_rp
 - status
 <br>
-Cara untuk menjalankan nya :
+Cara untuk menjalankan nya :</br>
 - pip install pyqt5 pandas openpyxl</br>
 
 NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall</br>

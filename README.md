@@ -20,6 +20,8 @@ Kolom yang didukung:
 - amount atau jumlah_rp
 - status
 <br>
+
+Untuk <b>Database</b> menggunakan <b>SQL Lite</b>
 Cara untuk menjalankan nya :</br>
 
 - pip install pyqt5 pandas openpyxl</br>
@@ -29,7 +31,7 @@ NB : Pastikan <b>Python dan PyQt5</b> sudah terinstall</br>
 - Lalu jalankan Program tersebut dengan file save nama anda yang sudah dibuat</br>
 
 <strong>SELESAI</strong>
-<p> Untuk DataBase menggunakan <b>SQL Lite</b></p>
+
 Ini adalah hasil pembuatan Sistem CRM Sales & Repeat Order untuk berbagai kalangan umum seperti:
 - Perusahaan
 - Toko
